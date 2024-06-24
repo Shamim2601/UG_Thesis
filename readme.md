@@ -21,9 +21,7 @@ Knee osteoarthritis (OA) is a common condition traditionally assessed using the 
 
 .
 ├── Assets/
-
 │   ├── csv/
-
 │   │   ├── joint_spaces_per_grade.csv
 
 │   │   ├── point_distances.csv
