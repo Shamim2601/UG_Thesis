@@ -66,6 +66,8 @@ Knee osteoarthritis (OA) is a common condition traditionally assessed using the 
 
 ## Workflow of the Thesis
 
+![Workflow of the Thesis](Assets/img/total_plot.png)
+
 1. **Apply Sobel operator on raw X-ray image and detect edges**
    - [Internal Notebook](Notebooks/3-quantitative-analysis.ipynb)
    - [External Kaggle Notebook](https://www.kaggle.com/code/shamim2601/quantitative-analysis-knee-oa)
