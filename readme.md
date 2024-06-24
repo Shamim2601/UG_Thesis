@@ -19,7 +19,6 @@ Knee osteoarthritis (OA) is a common condition traditionally assessed using the 
 
 ## Repository Structure
 
-.
 ├── Assets/
 
 │   ├── csv/
