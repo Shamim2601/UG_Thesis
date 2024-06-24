@@ -20,23 +20,23 @@ Knee osteoarthritis (OA) is a common condition traditionally assessed using the 
 ## Repository Structure
 
 .
-├── Assets
-│ ├── csv
-│ │ ├── joint_spaces_per_grade.csv
-│ │ ├── point_distances.csv
-│ │ ├── upper_edge_points.csv
-│ │ ├── lower_edge_points.csv
-│ │ └── test_output.csv
-│ ├── img
-│ │ ├── accuracy_by_folder.png
-│ │ └── accuracy-table.png
-├── Notebooks
-│ ├── 1-fastsam_dataset_generation.ipynb
-│ ├── 2-fastsam_edge_detection.ipynb
-│ ├── 3-quantitative-analysis.ipynb
-│ └── 4-Accuracy.ipynb
-├── src
-│ ├── edge_detection.py
-│ ├── optimization.py
-│ └── utils.py
+├── Assets/
+│   ├── csv/
+│   │   ├── joint_spaces_per_grade.csv
+│   │   ├── point_distances.csv
+│   │   ├── upper_edge_points.csv
+│   │   ├── lower_edge_points.csv
+│   │   └── test_output.csv
+│   └── img/
+│       ├── accuracy_by_folder.png
+│       └── accuracy-table.png
+├── Notebooks/
+│   ├── 1-fastsam_dataset_generation.ipynb
+│   ├── 2-fastsam_edge_detection.ipynb
+│   ├── 3-quantitative-analysis.ipynb
+│   └── 4-Accuracy.ipynb
+├── src/
+│   ├── edge_detection.py
+│   ├── optimization.py
+│   └── utils.py
 └── README.md
