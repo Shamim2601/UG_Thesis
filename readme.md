@@ -51,6 +51,19 @@ Knee osteoarthritis (OA) is a common condition traditionally assessed using the 
 
 
 
+## Datasets
+
+### Raw Knee X-Ray Dataset
+
+- **Source**: [Knee Osteoarthritis Dataset with Severity](https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity)
+- **Description**: This dataset contains raw knee X-ray images labeled with the severity of osteoarthritis. It is useful for training models to classify the severity of the disease.
+
+### Segmented Knee X-Ray Dataset
+
+- **Source**: [Fast Segmented Knee X-Ray Dataset](https://www.kaggle.com/datasets/shamim2601/fast-segmented-knee-xray-dataset)
+- **Description**: This dataset provides segmented knee X-ray images. It is useful for training models on segmentation tasks to identify specific regions of the knee.
+
+
 ## Workflow of the Thesis
 
 1. **Apply Sobel operator on raw X-ray image and detect edges**
